@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eq077_000.yaml, hash: 'sha256:13a957a2a166a220f146275a4f2ebaf07950bf709e2345287bfe6552ecadb91e'}
+  - {seq: 0, filename: KR3eq077_000.yaml, hash: 'sha256:0122b6b9549854408d06ff4d3d28705056069e3c897af14d313ce39b446efb0a'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eq077_000.markers.yaml, hash: 'sha256:adbf4d7b0dbe6e771c9a421696f6e67625986b5d2850405c4917aba783df4369'}
+  - {seq: 0, role: markers, filename: assets/KR3eq077_000.markers.yaml, hash: 'sha256:2c6787470fb652f0e9858f4d33e8fe5c11fcb8b0c26b5678d43e71dbd0c708c5'}
 table_of_contents:
 - ref:
     seq: 0
@@ -61,7 +61,4 @@ table_of_contents:
   label: 靖庵說醫
   type: section
   level: 1
-hash: sha256:b56389f75f1e14e5ffeecdae3d01a537d3a7d2630cb6e3c92db2be25cd32c828
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:0f11b088f9fdfe47a86fd95d6254aa7ea802f62223ff864e0dc5c82ac289f38e
