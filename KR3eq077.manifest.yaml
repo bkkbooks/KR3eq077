@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3eq077/v1
 canonical_location: https://kanripo.org/bkk/KR3eq077/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 靖庵說醫
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eq077_000.yaml, hash: 'sha256:0122b6b9549854408d06ff4d3d28705056069e3c897af14d313ce39b446efb0a'}
+  - {seq: 0, filename: KR3eq077_000.yaml, hash: 'sha256:af7e0adf2768a38046415294c387826908e457336f0a865dbba8152262f76210'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eq077_000.markers.yaml, hash: 'sha256:2c6787470fb652f0e9858f4d33e8fe5c11fcb8b0c26b5678d43e71dbd0c708c5'}
+  - {seq: 0, role: markers, filename: assets/KR3eq077_000.markers.yaml, hash: 'sha256:d0de39fa1c5c47e487b836e42c785df7c5f3bf591dac7a15c46bb636e54d7ef6'}
 table_of_contents:
 - ref:
     seq: 0
@@ -61,4 +61,7 @@ table_of_contents:
   label: 靖庵說醫
   type: section
   level: 1
-hash: sha256:0f11b088f9fdfe47a86fd95d6254aa7ea802f62223ff864e0dc5c82ac289f38e
+hash: sha256:dbeb3388901af6f57c346c64b2ce4f2cc39c46ab49adb6bedc0c3ad01d7455fc
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
