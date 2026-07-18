@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3eq077_000-jc.yaml, hash: 'sha256:0122b6b9549854408d06ff4d3d28705056069e3c897af14d313ce39b446efb0a'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eq077_000-jc.markers.yaml, hash: 'sha256:297d205e1385575dd6272e1c1dea8f2711c4fde2dd79336623cd1968b2d7e6c2'}
+  - {seq: 0, role: markers, filename: assets/KR3eq077_000-jc.markers.yaml, hash: 'sha256:4cd810adb7b5839767633a1951bcbbad21fc5154b46cc2a3e0545f01d45e1a8b'}
 table_of_contents:
 - ref:
     seq: 0
@@ -61,4 +61,4 @@ table_of_contents:
   label: 靖庵說醫
   type: section
   level: 1
-hash: sha256:1100eea7fa42d32b6317ea34bf32ddaa9d6e8efa556de20d17b9714fc84d4d25
+hash: sha256:e8a7902018e405b07557f521a59dcb6829d4d130419d638c4b9216e8f664c402
